@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: HI WHATS UP
 ---
-
+So this is what I want here
